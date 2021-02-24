@@ -2,8 +2,7 @@
 
 #### I'm a React developer and college student who:
 
-- 📖 loves to read docs
-- 🍳 cooks very badly
+- 📖 love to read docs
 - 🎧 listen to every type of music, but has Eminem as favorite artist 
 - 💡 try to be a better person in every aspect of life
 - 💻 is passionate about building quality web apps developed with React and Typescript.
