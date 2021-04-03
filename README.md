@@ -10,6 +10,5 @@
 #### Reach me! feel free to talk about anything 😄
 
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Samuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-samuel-2aa7aa19b/)](https://www.linkedin.com/in/guilherme-samuel-2aa7aa19b/)
-[![Gmail Badge](https://img.shields.io/badge/-gsdevelopercontact@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:gsdevelopercontact@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-_gsdeveloper-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_gsdeveloper)](https://twitter.com/_gsdeveloper)
+[![Gmail Badge](https://img.shields.io/badge/-devguilhermefront@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devguilhermefront@gmail.com)](mailto:devguilhermefront@gmail.com)
 
