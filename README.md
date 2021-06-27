@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-#### I'm a React developer and college student who:
+#### I'm a Front end developer:
 
 - 📖 love to read docs
 - 🎧 listen to every type of music, but has Eminem as favorite artist 
