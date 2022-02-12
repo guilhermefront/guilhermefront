@@ -8,4 +8,4 @@
 - 💻 is passionate about building quality web apps 
 
 
-I feel like developing stuff isn't a job for me (just the bunch of meetings I have to be involved to 😝), so studying and coding are actually fun tasks for me that I dedicate several hours a day to get better and better.
+I'm privileged to do what I like, that's one the reasons I'm always giving 100% on everything. 
