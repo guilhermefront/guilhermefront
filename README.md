@@ -8,4 +8,4 @@
 - 💻 is passionate about building quality web apps 
 
 
-I'm privileged to do what I like, that's one the reasons I'm always giving 100% on everything. 
+I'm privileged to do what I like, which is one the main reasons I'm always applying a tremendous effort to do better every single day. 
