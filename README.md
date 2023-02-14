@@ -8,4 +8,4 @@
 
 I'm privileged to work doing what I like, which is why I'll always apply a tremendous effort to do better every single day. 
 
-When I'm not coding, you'll probably see me in the gym or reading a book :)
+When I'm not coding, you'll probably see me in the gym, reading a book or writing an article :)
